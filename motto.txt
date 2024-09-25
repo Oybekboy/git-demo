@@ -6,3 +6,5 @@ carry on.
 You are more responsible
 for your efforts than 
 the results
+
+for revert
